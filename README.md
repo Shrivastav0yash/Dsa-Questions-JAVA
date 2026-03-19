@@ -18,7 +18,7 @@ A structured collection of Data Structures and Algorithms (DSA) solutions in Jav
 
 ## 🗂️ Project Structure
 DSA/
-├── Arrays/
+├── ArraysAndStrings/
 ├── SlidingWindow/
 ├── HashMap/
 ├── (more topics coming...)
