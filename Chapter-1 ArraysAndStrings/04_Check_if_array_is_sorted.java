@@ -1,6 +1,7 @@
 // Problem Link : https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
 
 /*
+
     DRY RUN EXAMPLE:
     ----------------
     Input: arr = [1, 2, 3, 4, 5]
