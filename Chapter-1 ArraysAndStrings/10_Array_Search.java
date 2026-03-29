@@ -1,6 +1,7 @@
 // Problem Link : https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1
 
 /*
+
     DRY RUN EXAMPLE:
     ----------------
     Input: arr = [10, 20, 30, 40, 50], x = 30
