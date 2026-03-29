@@ -1,6 +1,7 @@
 // Problem Link : https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
 
 /*
+
     DRY RUN EXAMPLE:
     ----------------
     Input: arr = [3, 8, 2, 10, 5]
