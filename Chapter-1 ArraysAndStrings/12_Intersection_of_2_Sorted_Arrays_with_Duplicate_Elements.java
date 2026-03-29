@@ -1,6 +1,7 @@
 // Problem Link : https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1
 
 /*
+
     DRY RUN EXAMPLE:
     ----------------
     Input:
