@@ -1,6 +1,7 @@
 // Problem Link : https://www.geeksforgeeks.org/problems/second-largest3735/1
 
 /*
+
     DRY RUN EXAMPLE:
     ----------------
     Input: arr = [12, 3, 1, 10, 34, 35]
