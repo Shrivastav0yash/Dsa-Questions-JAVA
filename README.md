@@ -97,6 +97,7 @@ Maintained by YASH SHRIVASTAV
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -105,6 +106,7 @@ Maintained by YASH SHRIVASTAV
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -126,4 +128,8 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
