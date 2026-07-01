@@ -109,6 +109,7 @@ Maintained by YASH SHRIVASTAV
 | [0031-next-permutation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0128-longest-consecutive-sequence) |
@@ -163,6 +164,7 @@ Maintained by YASH SHRIVASTAV
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -172,5 +174,6 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
