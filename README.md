@@ -80,6 +80,7 @@ Maintained by YASH SHRIVASTAV
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -87,6 +88,7 @@ Maintained by YASH SHRIVASTAV
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -100,6 +102,7 @@ Maintained by YASH SHRIVASTAV
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
