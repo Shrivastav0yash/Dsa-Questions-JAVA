@@ -85,6 +85,7 @@ Maintained by YASH SHRIVASTAV
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0053-maximum-subarray) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
@@ -110,6 +112,7 @@ Maintained by YASH SHRIVASTAV
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 ## Sorting
