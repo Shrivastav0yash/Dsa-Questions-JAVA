@@ -99,6 +99,7 @@ Maintained by YASH SHRIVASTAV
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0283-move-zeroes) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Maintained by YASH SHRIVASTAV
 | [0283-move-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,4 +152,8 @@ Maintained by YASH SHRIVASTAV
 | [0001-two-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
