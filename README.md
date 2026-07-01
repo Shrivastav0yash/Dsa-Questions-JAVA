@@ -137,6 +137,7 @@ Maintained by YASH SHRIVASTAV
 | [0485-max-consecutive-ones](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -210,12 +211,14 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,5 +227,6 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
