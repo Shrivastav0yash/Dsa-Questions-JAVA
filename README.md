@@ -108,6 +108,7 @@ Maintained by YASH SHRIVASTAV
 | [0031-next-permutation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
@@ -152,10 +153,15 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
