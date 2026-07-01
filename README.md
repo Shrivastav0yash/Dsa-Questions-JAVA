@@ -96,6 +96,7 @@ Maintained by YASH SHRIVASTAV
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0283-move-zeroes) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -104,6 +105,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
