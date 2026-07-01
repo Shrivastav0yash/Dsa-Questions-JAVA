@@ -77,6 +77,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -195,6 +196,7 @@ Maintained by YASH SHRIVASTAV
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
 |  |
@@ -233,6 +235,7 @@ Maintained by YASH SHRIVASTAV
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
