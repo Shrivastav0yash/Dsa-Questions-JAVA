@@ -90,6 +90,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -151,6 +152,7 @@ Maintained by YASH SHRIVASTAV
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -173,6 +175,7 @@ Maintained by YASH SHRIVASTAV
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,6 +218,7 @@ Maintained by YASH SHRIVASTAV
 | [0930-binary-subarrays-with-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
