@@ -101,6 +101,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0283-move-zeroes) |
@@ -109,10 +110,12 @@ Maintained by YASH SHRIVASTAV
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -134,10 +137,12 @@ Maintained by YASH SHRIVASTAV
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
