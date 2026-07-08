@@ -10,10 +10,11 @@ class Solution {
 
             result = result + s.charAt(i);
 
-            if(result.length() >= p){
-                if(result.substring(result.length()-p, result.length()).equals(part)){
+            if(
+                result.length() >= p 
+                && 
+                result.substring(result.length()-p, result.length()).equals(part)){
                     result = result.substring(0, result.length()-p);
-                }
             }
         }
 
