@@ -10,13 +10,13 @@ class Solution {
                 int top = ans.get(ans.size() - 1);
                 long g = BigInteger.valueOf(top)
                                      .gcd(BigInteger.valueOf(curr))
-                                     .longValue();
+                                     .longValue(); //GCD
 
                 if (g == 1)
                     break;
 
                 ans.remove(ans.size() - 1);
-                curr = (top / g) * curr;
+                curr = (top / g) * curr; //LCM
             }
 
             ans.add((int) curr);
