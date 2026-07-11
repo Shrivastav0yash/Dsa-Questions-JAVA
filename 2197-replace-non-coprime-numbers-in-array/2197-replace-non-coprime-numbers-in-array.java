@@ -1,3 +1,4 @@
+import java.math.BigInteger;
 class Solution {
     public List<Integer> replaceNonCoprimes(int[] nums) {
         List<Integer> ans = new ArrayList<>();
@@ -7,7 +8,9 @@ class Solution {
 
             while (!ans.isEmpty()) {
                 int top = ans.get(ans.size() - 1);
-                long g = gcd(top, curr);
+                long g = BigInteger.valueOf(top)
+                                     .gcd(BigInteger.valueOf(curr))
+                                     .longValue();
 
                 if (g == 1)
                     break;
@@ -20,14 +23,5 @@ class Solution {
         }
 
         return ans;
-    }
-
-    private long gcd(long a, long b) {
-        while (b != 0) {
-            long temp = b;
-            b = a % b;
-            a = temp;
-        }
-        return a;
     }
 }
