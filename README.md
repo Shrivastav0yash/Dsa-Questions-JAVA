@@ -100,6 +100,7 @@ Maintained by YASH SHRIVASTAV
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Maintained by YASH SHRIVASTAV
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Maintained by YASH SHRIVASTAV
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -241,6 +244,7 @@ Maintained by YASH SHRIVASTAV
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -301,4 +305,8 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
