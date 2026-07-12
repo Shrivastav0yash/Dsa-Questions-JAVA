@@ -72,6 +72,7 @@ Maintained by YASH SHRIVASTAV
 | [0048-rotate-image](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
+| [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
@@ -94,6 +95,7 @@ Maintained by YASH SHRIVASTAV
 ## Greedy
 |  |
 | ------- |
+| [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -159,6 +161,7 @@ Maintained by YASH SHRIVASTAV
 | [0485-max-consecutive-ones](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0648-replace-words) |
+| [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
@@ -234,6 +237,7 @@ Maintained by YASH SHRIVASTAV
 | [0424-longest-repeating-character-replacement](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0648-replace-words) |
+| [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0930-binary-subarrays-with-sum) |
