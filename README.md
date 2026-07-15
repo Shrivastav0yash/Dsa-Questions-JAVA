@@ -73,6 +73,7 @@ Maintained by YASH SHRIVASTAV
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
@@ -85,6 +86,7 @@ Maintained by YASH SHRIVASTAV
 | [0424-longest-repeating-character-replacement](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0648-replace-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
