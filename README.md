@@ -327,4 +327,8 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
