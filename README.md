@@ -180,6 +180,7 @@ Maintained by YASH SHRIVASTAV
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
@@ -254,6 +255,7 @@ Maintained by YASH SHRIVASTAV
 | [2336-smallest-number-in-infinite-set](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
@@ -261,6 +263,7 @@ Maintained by YASH SHRIVASTAV
 | [0054-spiral-matrix](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union-Find
 |  |
 | ------- |
