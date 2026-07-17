@@ -98,6 +98,7 @@ Maintained by YASH SHRIVASTAV
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0605-can-place-flowers) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -165,6 +166,7 @@ Maintained by YASH SHRIVASTAV
 | [0283-move-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0648-replace-words) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
