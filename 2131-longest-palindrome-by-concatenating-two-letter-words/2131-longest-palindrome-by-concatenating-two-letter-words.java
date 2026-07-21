@@ -8,7 +8,7 @@ class Solution {
             String revWord = new StringBuilder(words[i]).reverse().toString();
             if(map.getOrDefault(revWord, 0) > 0){
                 result += 4;
-                map.put(revWord, map.getOrDefault(revWord, 0) -1);
+                map.put(revWord, map.get(revWord) -1);
             }else{
                 map.put(words[i], map.getOrDefault(words[i], 0) + 1);
             }
