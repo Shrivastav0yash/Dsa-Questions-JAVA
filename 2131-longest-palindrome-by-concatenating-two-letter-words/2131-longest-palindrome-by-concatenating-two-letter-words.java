@@ -9,6 +9,7 @@ class Solution {
             if(map.getOrDefault(revWord, 0) > 0){
                 result += 4;
                 map.put(revWord, map.get(revWord) -1);
+                if(map.get(revWord) == 0) map.remove(revWord);
             }else{
                 map.put(words[i], map.getOrDefault(words[i], 0) + 1);
             }
