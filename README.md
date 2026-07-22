@@ -170,6 +170,7 @@ Maintained by YASH SHRIVASTAV
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0485-max-consecutive-ones) |
@@ -296,6 +297,7 @@ Maintained by YASH SHRIVASTAV
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
