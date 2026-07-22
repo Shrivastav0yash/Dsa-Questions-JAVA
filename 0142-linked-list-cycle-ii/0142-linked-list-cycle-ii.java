@@ -9,17 +9,31 @@
  *     }
  * }
  */
- //Brute Force
+ //Optimal
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        HashSet<ListNode> set = new HashSet<>();
-        ListNode temp = head;
-        while(temp != null && temp.next != null){
-            if(set.contains(temp)){
-                return temp;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode startPoint = head;
+
+        if(head == null || head.next == null) return null;
+
+        boolean flag = false;
+        while(fast != null && fast.next != null ){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast){
+                flag = true;
+                break;
             }
-            set.add(temp);
-            temp = temp.next;
+        }
+
+        if(flag == true){
+            while(slow != startPoint){
+                slow = slow.next;
+                startPoint = startPoint.next;
+            }
+            return startPoint;
         }
 
         return null;
