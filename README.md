@@ -137,6 +137,7 @@ Maintained by YASH SHRIVASTAV
 | [0018-4sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
@@ -251,6 +252,7 @@ Maintained by YASH SHRIVASTAV
 | [0073-set-matrix-zeroes](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0229-majority-element-ii) |
@@ -350,6 +352,7 @@ Maintained by YASH SHRIVASTAV
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0876-middle-of-the-linked-list) |
