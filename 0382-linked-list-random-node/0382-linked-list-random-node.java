@@ -10,20 +10,29 @@
  */
 class Solution {
 
-    ArrayList<Integer> arr = new ArrayList<>();
+    ListNode Head;
 
     public Solution(ListNode head) {
-        ListNode temp = head;
-        while(temp != null){
-            arr.add(temp.val);
-            temp = temp.next;
-        }    
+        this.Head = head;
     }
     
     public int getRandom() {
-        int n = arr.size();
-        int random_index = (int)(Math.random() * n);//math.random generates double value thats why we need to use * not %
-        return arr.get(random_index);
+        int count = 1;
+        int result = 0;
+
+        ListNode temp = Head;
+
+        while(temp != null){
+
+            if(Math.random() < 1.0 / count){
+                result = temp.val;
+            }
+            count++;
+            temp = temp.next;
+        }
+
+        return result;
+
     }
 }
 
