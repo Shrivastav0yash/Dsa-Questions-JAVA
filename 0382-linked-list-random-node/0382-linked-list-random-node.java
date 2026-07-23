@@ -22,7 +22,7 @@ class Solution {
     
     public int getRandom() {
         int n = arr.size();
-        int random_index = (int)(Math.random() * n);
+        int random_index = (int)(Math.random() * n);//math.random generates double value thats why we need to use * not %
         return arr.get(random_index);
     }
 }
