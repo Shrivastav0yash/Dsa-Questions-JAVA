@@ -202,6 +202,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -355,6 +356,7 @@ Maintained by YASH SHRIVASTAV
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0328-odd-even-linked-list) |
@@ -369,4 +371,16 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0382-linked-list-random-node) |
+## Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
