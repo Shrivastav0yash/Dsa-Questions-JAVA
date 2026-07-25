@@ -121,6 +121,7 @@ Maintained by YASH SHRIVASTAV
 | [0118-pascals-triangle](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0152-maximum-product-subarray) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -183,6 +184,7 @@ Maintained by YASH SHRIVASTAV
 | [0648-replace-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0648-replace-words) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0930-binary-subarrays-with-sum) |
@@ -322,6 +324,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
