@@ -339,6 +339,7 @@ Maintained by YASH SHRIVASTAV
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
 ## Trie
 |  |
@@ -363,6 +364,7 @@ Maintained by YASH SHRIVASTAV
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
