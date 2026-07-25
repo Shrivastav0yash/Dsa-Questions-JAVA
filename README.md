@@ -204,6 +204,7 @@ Maintained by YASH SHRIVASTAV
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
@@ -227,11 +228,13 @@ Maintained by YASH SHRIVASTAV
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -360,6 +363,7 @@ Maintained by YASH SHRIVASTAV
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
