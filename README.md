@@ -348,6 +348,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
 ## Trie
 |  |
@@ -374,6 +375,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
