@@ -133,6 +133,7 @@ Maintained by YASH SHRIVASTAV
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
@@ -153,6 +154,7 @@ Maintained by YASH SHRIVASTAV
 | [1768-merge-strings-alternately](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
 |  |
@@ -385,6 +387,7 @@ Maintained by YASH SHRIVASTAV
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Reservoir Sampling
 |  |
 | ------- |
