@@ -8,30 +8,39 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //Approach II
+ //Apprach III
 class Solution {
     public int pairSum(ListNode head) {
         
-        Stack<Integer> stack = new Stack<>();
-        ListNode curr = head;
+        //Find Middle node
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(curr != null){
-            stack.push(curr.val);
-            curr = curr.next;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        int n = stack.size();
+        ListNode currNode = slow;
+
+        //Reverse Linked List
+        ListNode prevNode = null;
+        ListNode nextNode = null;
+
+        while(currNode != null){
+            nextNode = currNode.next;
+            currNode.next = prevNode;
+            prevNode = currNode;
+            currNode = nextNode;
+        }
+
+        currNode = head;
         int result = 0;
 
-        int count = 1;
-
-        curr = head;
-        while( count <= n/2){
-
-            result = Math.max(result, curr.val + stack.peek());
-            curr = curr.next;
-            stack.pop();
-            count++;
+        while(prevNode != null){
+            result = Math.max(result, (currNode.val + prevNode.val));
+            prevNode = prevNode.next;
+            currNode = currNode.next;
         }
 
         return result;
