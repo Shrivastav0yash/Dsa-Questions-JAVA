@@ -85,6 +85,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -127,6 +128,7 @@ Maintained by YASH SHRIVASTAV
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
