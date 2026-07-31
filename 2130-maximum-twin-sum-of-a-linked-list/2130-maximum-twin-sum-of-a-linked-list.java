@@ -8,27 +8,33 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //Approach I
+ //Approach II
 class Solution {
     public int pairSum(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<>();
+        
+        Stack<Integer> stack = new Stack<>();
         ListNode curr = head;
 
         while(curr != null){
-            arr.add(curr.val);
+            stack.push(curr.val);
             curr = curr.next;
         }
 
-        int j = arr.size() -1;
-        int i = 0;
+        int n = stack.size();
         int result = 0;
 
-        while(i < j){
-            result = Math.max(result, (arr.get(i) + arr.get(j)));
-            i++;
-            j--;
+        int count = 1;
+
+        curr = head;
+        while( count <= n/2){
+
+            result = Math.max(result, curr.val + stack.peek());
+            curr = curr.next;
+            stack.pop();
+            count++;
         }
 
         return result;
+
     }
 }
