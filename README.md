@@ -73,6 +73,7 @@ Maintained by YASH SHRIVASTAV
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -129,6 +130,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -385,6 +387,7 @@ Maintained by YASH SHRIVASTAV
 | [0237-delete-node-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
