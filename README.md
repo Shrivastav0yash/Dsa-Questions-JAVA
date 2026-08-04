@@ -132,6 +132,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
+| [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -371,10 +372,12 @@ Maintained by YASH SHRIVASTAV
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -427,4 +430,8 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
