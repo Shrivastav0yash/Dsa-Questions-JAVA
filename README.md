@@ -132,6 +132,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
@@ -194,6 +195,7 @@ Maintained by YASH SHRIVASTAV
 | [0560-subarray-sum-equals-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0648-replace-words) |
+| [0739-daily-temperatures](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -372,6 +374,7 @@ Maintained by YASH SHRIVASTAV
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
