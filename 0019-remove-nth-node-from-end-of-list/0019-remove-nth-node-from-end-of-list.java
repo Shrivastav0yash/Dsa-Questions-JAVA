@@ -10,37 +10,21 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        int L = 0;
-        ListNode curr = head;
+        
+        ListNode temp = head;
 
-        //find length
-        while(curr != null){
-            L++;
-            curr = curr.next;
+        for(int i=1 ; i<=n; i++) temp = temp.next;
+
+        if(temp == null) return head.next;
+
+        ListNode prev = head;
+
+        while(temp != null && temp.next != null){
+            prev = prev.next;
+            temp = temp.next;
         }
 
-        //egde case 1
-        if(L==1) return null;
-
-        // Remove head edge case 2
-        if (L == n) {
-            return head.next;
-        }
-
-        //move pointer till we reach the delete node
-        curr = head;
-        ListNode prev = null;
-        int i = 1;
-        while(i != (L-n+1) ){
-            prev = curr;
-            curr = curr.next;
-            i++;
-        }
-
-        //delete it
-        prev.next = curr.next;
-        curr.next = null;
-
+        prev.next = prev.next.next;
         return head;
     }
 }
