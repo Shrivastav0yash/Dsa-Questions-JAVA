@@ -136,6 +136,7 @@ Maintained by YASH SHRIVASTAV
 | [0739-daily-temperatures](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0946-validate-stack-sequences) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -204,6 +205,7 @@ Maintained by YASH SHRIVASTAV
 | [0904-fruit-into-baskets](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -311,6 +313,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0054-spiral-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0946-validate-stack-sequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2390-removing-stars-from-a-string) |
