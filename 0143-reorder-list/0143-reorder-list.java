@@ -8,37 +8,33 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //Apprach 1 by Using reverse and slow fast appraoach
+ //By Recusrion
 class Solution {
-    public ListNode reverse(ListNode head){
-        if(head == null || head.next == null) return head;
 
-        ListNode last = reverse(head.next);
-        head.next.next = head;
-        head.next = null;
-        return last;
+    ListNode curr ;
 
+    public void solve(ListNode head){
+        if(head == null) return;
+
+        solve(head.next);
+
+        ListNode temp = curr.next;
+
+        if(curr.next == null) return;
+        else if(curr == head) {
+            curr.next = null;
+            return;
+        }
+
+        curr.next = head;
+
+        head.next = (temp == head) ? null : temp;
+
+        curr = temp;
     }
+
     public void reorderList(ListNode head) {
-        
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-
-        ListNode rev = reverse(slow);
-        ListNode curr = head;
-
-        while(rev.next != null){
-            ListNode temp = curr.next;
-            ListNode revTemp = rev.next;
-            curr.next = rev;
-            rev.next = temp;
-            curr = temp;
-            rev = revTemp;
-        }
+        curr = head;
+        solve(head);
     }
 }
