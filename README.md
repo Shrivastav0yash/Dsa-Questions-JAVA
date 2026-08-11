@@ -131,6 +131,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
@@ -157,6 +158,7 @@ Maintained by YASH SHRIVASTAV
 | [0086-partition-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
@@ -369,6 +371,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
@@ -407,6 +410,7 @@ Maintained by YASH SHRIVASTAV
 | [0092-reverse-linked-list-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
