@@ -8,20 +8,44 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //By Recusrion
+ //By Using Reverse
 class Solution {
 
-    public ListNode removeNodes(ListNode head) {
-
+    public ListNode reverse(ListNode head){
         if(head == null || head.next == null) return head;
-        
-        ListNode newNode = removeNodes(head.next);
 
-        if(head.val < newNode.val){
-            return newNode;
-        }
+        ListNode last = reverse(head.next);
+
+        head.next.next = head;
+        head.next = null;
+
+        return last;
+
+    }
+
+    public ListNode removeNodes(ListNode head) {
         
-        head.next = newNode;
-        return head;
+        head = reverse(head);
+
+        int maxNode = -1;
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while(curr != null){
+
+            maxNode = Math.max(maxNode, curr.val);
+
+            if(curr.val < maxNode){
+                prev.next = curr.next;
+            }
+            else{
+                prev = curr;
+            }
+            curr = curr.next;
+
+        }
+
+        return reverse(head);
+
     }
 }
