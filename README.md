@@ -71,6 +71,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0048-rotate-image](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
@@ -89,6 +90,7 @@ Maintained by YASH SHRIVASTAV
 | [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0648-replace-words) |
@@ -132,6 +134,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
@@ -377,6 +380,7 @@ Maintained by YASH SHRIVASTAV
 | [0024-swap-nodes-in-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
