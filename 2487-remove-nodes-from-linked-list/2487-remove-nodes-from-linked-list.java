@@ -8,38 +8,20 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //Approach 1 by Using stack
+ //By Recusrion
 class Solution {
+
     public ListNode removeNodes(ListNode head) {
-        Stack<ListNode> stack = new Stack<>();
-        ListNode temp = head;
+
+        if(head == null || head.next == null) return head;
         
-        while(temp != null){
-            stack.push(temp);
-            temp = temp.next;
+        ListNode newNode = removeNodes(head.next);
+
+        if(head.val < newNode.val){
+            return newNode;
         }
-
-        temp = stack.peek();
-        stack.pop();
-        int maxValue = temp.val;
-
-        ListNode result = new ListNode(temp.val);
-
-        while(!stack.empty()){
-            temp = stack.peek();
-            stack.pop();
-
-            if(temp.val < maxValue){
-                continue;//skip this node
-            }
-            else{
-                ListNode curr = new ListNode(temp.val);
-                curr.next = result;
-                result = curr;
-                maxValue = curr.val;
-            }
-        }
-
-        return result;
+        
+        head.next = newNode;
+        return head;
     }
 }
