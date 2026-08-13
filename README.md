@@ -148,6 +148,7 @@ Maintained by YASH SHRIVASTAV
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
@@ -378,6 +379,7 @@ Maintained by YASH SHRIVASTAV
 | [0206-reverse-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -391,6 +393,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
@@ -427,6 +430,7 @@ Maintained by YASH SHRIVASTAV
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Reservoir Sampling
 |  |
 | ------- |
