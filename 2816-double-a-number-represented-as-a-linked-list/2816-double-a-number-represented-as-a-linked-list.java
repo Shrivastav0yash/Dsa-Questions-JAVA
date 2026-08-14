@@ -8,45 +8,30 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //Apprach 2 -  Stack
+ //By Recursion
 class Solution {
+
+    public int solve(ListNode head){
+        if(head == null) return 0;
+
+        int carry = solve(head.next);
+
+        int newValue = (head.val * 2) + carry;
+        head.val = newValue % 10;
+
+        return newValue >= 10 ? 1 : 0;
+    }
+
     public ListNode doubleIt(ListNode head) {
-        Stack<ListNode> stack = new Stack<>();
-        ListNode curr = head;
-
-        while(curr != null){
-            stack.push(curr);
-            curr = curr.next;
+        int last_carry = solve(head);
+        
+        if(last_carry > 0){
+            ListNode newHead = new ListNode(last_carry);
+            newHead.next = head;
+            return newHead;
         }
 
-        int carry = 0;
-        curr = stack.peek();
-        int val = (2 * curr.val) % 10 + carry;
-        carry = (2 * curr.val) / 10;
-        curr.val = val;
-        curr.next = null;
-        stack.pop();
+        return head;
 
-
-        while(!stack.empty()){
-
-            ListNode temp = stack.peek();
-            val = (2 * temp.val) % 10 + carry;
-            carry = (2 * temp.val) / 10;
-
-            temp.val = val;
-
-            temp.next = curr;
-            curr = temp;
-            stack.pop();
-        }
-
-        if(carry > 0){
-            ListNode headNode = new ListNode(carry);
-            headNode.next = curr;
-            return headNode;
-        }
-            
-        return curr;
     }
 }
