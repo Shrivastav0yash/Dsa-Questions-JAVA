@@ -8,33 +8,30 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //Apprach 4 - from left to right
+ //Approach 5
 class Solution {
     public ListNode doubleIt(ListNode head) {
-        ListNode prev = null;
+        
+        if(head.val >= 5){
+            ListNode newHead = new ListNode(0);
+            newHead.next = head;
+            head = newHead;
+        }
+
         ListNode curr = head;
 
         while(curr != null){
-            int val = curr.val * 2 ;
+            
+            curr.val  = (curr.val * 2) % 10;
 
-            if(val < 10){
-                curr.val = val;
+            if(curr.next != null && curr.next.val >= 5){
+                curr.val += 1;
             }
-            else if(prev != null){
-                curr.val = val % 10;
-                prev.val+= 1;
-            }
-            else {
-                ListNode newHead = new ListNode(1);
-                newHead.next = curr;
-                curr.val = val % 10;
-                head = newHead;
-            }
-            prev = curr;
             curr = curr.next;
-
+            
         }
 
         return head;
+
     }
 }
