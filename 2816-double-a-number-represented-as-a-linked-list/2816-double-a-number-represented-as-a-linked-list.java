@@ -8,30 +8,33 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //By Recursion
+ //Apprach 4 - from left to right
 class Solution {
-
-    public int solve(ListNode head){
-        if(head == null) return 0;
-
-        int carry = solve(head.next);
-
-        int newValue = (head.val * 2) + carry;
-        head.val = newValue % 10;
-
-        return newValue >= 10 ? 1 : 0;
-    }
-
     public ListNode doubleIt(ListNode head) {
-        int last_carry = solve(head);
-        
-        if(last_carry > 0){
-            ListNode newHead = new ListNode(last_carry);
-            newHead.next = head;
-            return newHead;
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while(curr != null){
+            int val = curr.val * 2 ;
+
+            if(val < 10){
+                curr.val = val;
+            }
+            else if(prev != null){
+                curr.val = val % 10;
+                prev.val+= 1;
+            }
+            else {
+                ListNode newHead = new ListNode(1);
+                newHead.next = curr;
+                curr.val = val % 10;
+                head = newHead;
+            }
+            prev = curr;
+            curr = curr.next;
+
         }
 
         return head;
-
     }
 }
