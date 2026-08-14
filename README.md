@@ -81,6 +81,7 @@ Maintained by YASH SHRIVASTAV
 | [2048-next-greater-numerically-balanced-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -152,6 +153,7 @@ Maintained by YASH SHRIVASTAV
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
@@ -435,6 +437,7 @@ Maintained by YASH SHRIVASTAV
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Reservoir Sampling
 |  |
 | ------- |
