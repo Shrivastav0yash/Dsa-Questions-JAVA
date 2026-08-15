@@ -329,6 +329,7 @@ Maintained by YASH SHRIVASTAV
 | [1441-build-an-array-with-stack-operations](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union-Find
@@ -436,6 +437,7 @@ Maintained by YASH SHRIVASTAV
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Reservoir Sampling
