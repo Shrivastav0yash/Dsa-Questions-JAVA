@@ -129,6 +129,7 @@ Maintained by YASH SHRIVASTAV
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0907-sum-of-subarray-minimums](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -141,6 +142,7 @@ Maintained by YASH SHRIVASTAV
 | [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0946-validate-stack-sequences) |
 | [1106-parsing-a-boolean-expression](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1106-parsing-a-boolean-expression) |
@@ -214,6 +216,7 @@ Maintained by YASH SHRIVASTAV
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0904-fruit-into-baskets) |
+| [0907-sum-of-subarray-minimums](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0946-validate-stack-sequences) |
@@ -400,6 +403,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
