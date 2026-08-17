@@ -235,6 +235,7 @@ Maintained by YASH SHRIVASTAV
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
@@ -323,6 +324,7 @@ Maintained by YASH SHRIVASTAV
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
@@ -445,6 +447,7 @@ Maintained by YASH SHRIVASTAV
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Reservoir Sampling
 |  |
 | ------- |
