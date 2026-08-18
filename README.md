@@ -70,6 +70,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@ Maintained by YASH SHRIVASTAV
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0234-palindrome-linked-list) |
@@ -198,6 +200,7 @@ Maintained by YASH SHRIVASTAV
 | [0118-pascals-triangle](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
