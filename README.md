@@ -81,6 +81,7 @@ Maintained by YASH SHRIVASTAV
 | [2048-next-greater-numerically-balanced-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
@@ -400,6 +401,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -446,6 +448,7 @@ Maintained by YASH SHRIVASTAV
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Reservoir Sampling
