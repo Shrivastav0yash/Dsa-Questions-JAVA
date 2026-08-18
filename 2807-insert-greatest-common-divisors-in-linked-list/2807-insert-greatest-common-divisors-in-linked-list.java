@@ -21,21 +21,18 @@ class Solution {
 
     public ListNode insertGreatestCommonDivisors(ListNode head) {
 
-        ListNode curr = head.next;
-        ListNode prev = head;
+        if(head == null || head.next == null) return head;
 
-        while(curr != null){
+        ListNode last = insertGreatestCommonDivisors(head.next);
 
-            int val = gcd(prev.val, curr.val);
-            ListNode temp = new ListNode(val);
+        int gcd = gcd(head.val, last.val);
 
-            prev.next = temp;
-            temp.next = curr;
+        ListNode temp = new ListNode(gcd);
 
-            prev = curr;
-            curr = curr.next;
-        }
+        head.next = temp;
+        temp.next = last;
 
         return head;
+        
     }
 }
