@@ -12,48 +12,49 @@ class Node {
     }
 }
 */
-//Apporach 1
+//Approach II
 class Solution {
     public Node copyRandomList(Node head) {
         
         if(head == null) return head;
 
-        HashMap<Node, Node> map = new HashMap<>();
+        //New Node insert in original node
 
         Node curr = head;
-        Node prev = null;
-
-        Node newHead = null;
 
         while(curr != null){
-
-            Node temp = new Node(curr.val);
-
-            map.put(curr, temp);
-
-            if(newHead == null){
-                newHead = temp;
-                prev = newHead;
-            }
-            else{
-                prev.next = temp;
-                prev =temp;
-            }
-            curr = curr.next;
+            Node temp = curr.next;
+            curr.next = new Node(curr.val);
+            curr.next.next = temp;
+            curr = temp;
         }
 
-        //fill randorm pointer
+        //Deep Copy of random pointer
         curr = head;
+        while(curr != null && curr.next != null){
+
+            if(curr.random == null){
+                curr.next.random = null;
+            }
+            else{
+                curr.next.random = curr.random.next;
+            }
+            curr = curr.next.next;
+        }
+
+        //Seperate List
+        Node newHead = head.next;
         Node newCurr = newHead;
+        curr = head;
 
-        while(curr != null){
+        while(curr != null && newCurr != null){
+            
+            curr.next = curr.next == null ? null : curr.next.next;
+            newCurr.next = newCurr.next == null ? null : newCurr.next.next;
 
-            if(curr.random == null)
-                newCurr.random = null;
-            else
-                newCurr.random = map.get(curr.random);
             curr = curr.next;
             newCurr = newCurr.next;
+
         }
 
         return newHead;
