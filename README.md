@@ -229,6 +229,7 @@ Maintained by YASH SHRIVASTAV
 | [0946-validate-stack-sequences](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -266,6 +267,7 @@ Maintained by YASH SHRIVASTAV
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
@@ -295,6 +297,7 @@ Maintained by YASH SHRIVASTAV
 | [0229-majority-element-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -505,4 +508,5 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
