@@ -1,19 +1,23 @@
-//Selection Sort
 class Solution {
     public void sortColors(int[] nums) {
-        int minInd;
 
-        for(int i=0; i<nums.length; i++){
-            minInd = i;
-            for(int j = i+1; j<nums.length; j++){
-                if(nums[j] < nums[minInd]){
-                    minInd = j;
-                }
-            }
+        int[] count = new int[3];
 
-            int temp = nums[minInd];
-            nums[minInd] = nums[i];
-            nums[i] = temp;
+        for (int i : nums) {
+            count[i] = count[i] + 1;
         }
+
+        int j = 0;
+        for (int i = 0; i < nums.length; i++) {
+
+            if (count[j] > 0) {
+                nums[i] = j;
+                count[j]--;
+            } else {
+                j++;
+                i--;
+            }
+        }
+
     }
 }
