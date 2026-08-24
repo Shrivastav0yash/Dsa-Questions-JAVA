@@ -230,6 +230,7 @@ Maintained by YASH SHRIVASTAV
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -268,6 +269,7 @@ Maintained by YASH SHRIVASTAV
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
