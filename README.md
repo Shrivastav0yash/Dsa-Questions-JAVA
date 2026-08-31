@@ -123,6 +123,7 @@ Maintained by YASH SHRIVASTAV
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
@@ -244,6 +245,7 @@ Maintained by YASH SHRIVASTAV
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -278,6 +280,7 @@ Maintained by YASH SHRIVASTAV
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
