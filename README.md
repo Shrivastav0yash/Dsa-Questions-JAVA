@@ -242,6 +242,7 @@ Maintained by YASH SHRIVASTAV
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -280,6 +281,7 @@ Maintained by YASH SHRIVASTAV
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
@@ -290,6 +292,7 @@ Maintained by YASH SHRIVASTAV
 | [0451-sort-characters-by-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
@@ -352,6 +355,7 @@ Maintained by YASH SHRIVASTAV
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
