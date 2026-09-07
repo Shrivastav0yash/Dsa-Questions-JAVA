@@ -125,6 +125,7 @@ Maintained by YASH SHRIVASTAV
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
@@ -190,6 +191,7 @@ Maintained by YASH SHRIVASTAV
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Array
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Maintained by YASH SHRIVASTAV
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -286,6 +289,7 @@ Maintained by YASH SHRIVASTAV
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
