@@ -77,6 +77,7 @@ Maintained by YASH SHRIVASTAV
 | [0382-linked-list-random-node](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
+| [0869-reordered-power-of-2](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0869-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -282,6 +283,7 @@ Maintained by YASH SHRIVASTAV
 | [0451-sort-characters-by-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
+| [0869-reordered-power-of-2](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1200-minimum-absolute-difference) |
@@ -326,6 +328,7 @@ Maintained by YASH SHRIVASTAV
 | [0229-majority-element-ii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0692-top-k-frequent-words) |
+| [0869-reordered-power-of-2](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
@@ -354,6 +357,7 @@ Maintained by YASH SHRIVASTAV
 | [0692-top-k-frequent-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
+| [0869-reordered-power-of-2](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0869-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -526,6 +530,7 @@ Maintained by YASH SHRIVASTAV
 ## Enumeration
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0869-reordered-power-of-2) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Data Stream
 |  |
