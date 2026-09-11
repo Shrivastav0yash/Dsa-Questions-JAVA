@@ -86,6 +86,7 @@ Maintained by YASH SHRIVASTAV
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3433-count-mentions-per-user](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3433-count-mentions-per-user) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -258,6 +259,7 @@ Maintained by YASH SHRIVASTAV
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3433-count-mentions-per-user](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3433-count-mentions-per-user) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
@@ -293,6 +295,7 @@ Maintained by YASH SHRIVASTAV
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3433-count-mentions-per-user](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3433-count-mentions-per-user) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -387,6 +390,7 @@ Maintained by YASH SHRIVASTAV
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3433-count-mentions-per-user](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3433-count-mentions-per-user) |
 ## Union-Find
 |  |
 | ------- |
