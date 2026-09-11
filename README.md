@@ -242,6 +242,7 @@ Maintained by YASH SHRIVASTAV
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -289,6 +290,7 @@ Maintained by YASH SHRIVASTAV
 | [0912-sort-an-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
