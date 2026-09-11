@@ -15,8 +15,7 @@ class Solution {
 
         for(int i=1; i<n; i++){
 
-            if(result.get(result.size() -1)[0] <= intervals[i][0] &&
-                result.get(result.size() -1)[1] >= intervals[i][1]){
+            if(result.get(result.size() -1)[1] >= intervals[i][1]){
                     continue;
                 }
 
