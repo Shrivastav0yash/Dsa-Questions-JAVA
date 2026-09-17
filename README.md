@@ -214,6 +214,7 @@ Maintained by YASH SHRIVASTAV
 | [0128-longest-consecutive-sequence](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0169-majority-element) |
@@ -417,6 +418,7 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
