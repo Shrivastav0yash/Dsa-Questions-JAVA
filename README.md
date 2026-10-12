@@ -429,6 +429,7 @@ Maintained by YASH SHRIVASTAV
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -572,4 +573,8 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0164-maximum-gap) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
