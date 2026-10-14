@@ -260,6 +260,7 @@ Maintained by YASH SHRIVASTAV
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
@@ -434,6 +435,7 @@ Maintained by YASH SHRIVASTAV
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Bit Manipulation
 |  |
 | ------- |
