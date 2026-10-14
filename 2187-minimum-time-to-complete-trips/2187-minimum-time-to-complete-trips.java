@@ -10,6 +10,10 @@ class Solution {
             long actualTrip = 0;
             for(int i : time){
                 actualTrip += mid / i;
+                // Optional optimization
+                if (actualTrip >= totalTrips) {
+                    break;
+                }
             }
 
             if(actualTrip >= totalTrips) r = mid;
