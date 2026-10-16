@@ -235,6 +235,7 @@ Maintained by YASH SHRIVASTAV
 | [0605-can-place-flowers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0846-hand-of-straights) |
@@ -434,6 +435,7 @@ Maintained by YASH SHRIVASTAV
 | [0268-missing-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1539-kth-missing-positive-number) |
