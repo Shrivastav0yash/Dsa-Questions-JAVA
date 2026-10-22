@@ -129,6 +129,7 @@ Maintained by YASH SHRIVASTAV
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@ Maintained by YASH SHRIVASTAV
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -269,6 +271,7 @@ Maintained by YASH SHRIVASTAV
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -427,6 +430,7 @@ Maintained by YASH SHRIVASTAV
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -444,6 +448,7 @@ Maintained by YASH SHRIVASTAV
 | [1539-kth-missing-positive-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
