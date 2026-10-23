@@ -80,6 +80,7 @@ Maintained by YASH SHRIVASTAV
 | [0869-reordered-power-of-2](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0869-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2364-count-number-of-bad-pairs) |
@@ -124,6 +125,7 @@ Maintained by YASH SHRIVASTAV
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -446,6 +448,7 @@ Maintained by YASH SHRIVASTAV
 | [0875-koko-eating-bananas](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
