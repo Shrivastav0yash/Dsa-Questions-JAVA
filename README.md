@@ -268,6 +268,7 @@ Maintained by YASH SHRIVASTAV
 | [1441-build-an-array-with-stack-operations](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -457,6 +458,7 @@ Maintained by YASH SHRIVASTAV
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
