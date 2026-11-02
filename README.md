@@ -130,6 +130,7 @@ Maintained by YASH SHRIVASTAV
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
@@ -271,6 +272,7 @@ Maintained by YASH SHRIVASTAV
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -318,6 +320,7 @@ Maintained by YASH SHRIVASTAV
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -459,6 +462,7 @@ Maintained by YASH SHRIVASTAV
 | [1539-kth-missing-positive-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/2439-minimize-maximum-of-array) |
