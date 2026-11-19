@@ -4,7 +4,7 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
 
-        int[] temp = new int[m + n];
+        int[] temp = new int[m + n]; //O(m+n)
 
         int i = 0;
         int j = 0;
