@@ -262,6 +262,7 @@ Maintained by YASH SHRIVASTAV
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1051-height-checker) |
+| [1095-find-in-mountain-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1288-remove-covered-intervals) |
@@ -470,6 +471,7 @@ Maintained by YASH SHRIVASTAV
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -626,8 +628,10 @@ Maintained by YASH SHRIVASTAV
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Shrivastav0yash/Dsa-Questions-JAVA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
